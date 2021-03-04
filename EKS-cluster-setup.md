@@ -1,5 +1,5 @@
 ​ https://cloud.garr.it/support/kb/kubernetes/nodes_not_ready/
-### file for creeating the nodegroup and spot and ondemand instancs
+### file for creating the nodegroup and spot and ondemand instances
 
 apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
